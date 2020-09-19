@@ -1,0 +1,4 @@
+[{"id":1, "created_at":"", "updated_at":"", "first_name":"Rozella", "last_name":"Lalevee", "date_of_birth":777319075, "weight":139, "height":"5'11", "salary":1663, "position":"Manager"},
+ {"id":4, "created_at":"", "updated_at":"", "first_name":"Petya", "last_name":"Petrov", "date_of_birth":610922175, "weight":157, "height":"5'8", "salary":1200, "position":"Developer"},
+ {"id":8, "created_at":"", "updated_at":"", "first_name":"Igor", "last_name":"Nikolaev", "date_of_birth":691255554, "weight":177, "height":"6'4", "salary":1340, "position":"Manager"},
+ {"id":9, "created_at":"", "updated_at":"", "first_name":"Ivan", "last_name":"Ivanov", "date_of_birth":781255554, "weight":140, "height":"6'1", "salary":1451, "position":"Manager"}]
